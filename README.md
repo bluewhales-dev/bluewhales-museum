@@ -16,8 +16,11 @@ with a bluewhales' song...
 
 The baby bluewhale is carried on
 
-Mama bluewhale.
+Mama bluewhale and
 
+Dada bluewhale is sailing
+
+by and by....
 
 
 # Vision
@@ -27,3 +30,10 @@ To be the pioneers in big data analysis in different domains and to provide sust
 # Mission
 
 We provide technical support and consultation for professionals and organizations to handle (process, filter out distortions etc.) big data, find interesting patterns, monitor behavioural patterns in a specific domain and present the hidden interesting patterns in a meaningful way to improve the organization workflow.
+
+# Values
+
+
+# Co-founders
+
+
